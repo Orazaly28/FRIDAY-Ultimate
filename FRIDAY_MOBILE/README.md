@@ -47,5 +47,5 @@
 - Kotlin
 - Android SDK 34
 - Gemini AI API
-- Material Design 3 
+- Material Design 3  
 
